@@ -1,0 +1,59 @@
+{
+  "banner": {
+    "success": "has successfully performed a",
+    "failure": "failed the attack against",
+    "conclusion": ""
+  },
+  "damageTypes": {
+    "acid": "acid damage",
+    "bludgeoning": "bludgeoning damage",
+    "cold": "cold damage",
+    "fire": "fire damage",
+    "force": "force damage",
+    "lightning": "lightning damage",
+    "necrotic": "necrotic damage",
+    "piercing": "piercing damage",
+    "poison": "poison damage",
+    "psychic": "psychic damage",
+    "radiant": "radiant damage",
+    "slashing": "slashing damage",
+    "thunder": "thunder damage"
+  },
+  "narratives": {
+    "mwak": [
+      "${actorName} catapults themselves with a mighty leap over an obstacle, lands lightly, and unleashes a devastating blow against ${targetName}. The sudden, powerful strike kicks up dust and leaves ${targetName} staggering.",
+      "In an impressive display of agility, ${actorName} ducks under a wild swing from ${targetName}, slides close, and unleashes a quick, razor-sharp counterattack. The strike hits so hard and fast that it takes ${targetName}'s breath away.",
+      "${actorName} charges forward with a thunderous battle cry and unleashes a wave of raw energy. The massive attack hits ${targetName} like a hammer, forcing them back and causing the ground beneath their feet to quake.",
+      "In a moment of deadly silence, ${actorName} focuses, aiming at a barely visible gap in ${targetName}'s defense. The following strike is lightning-fast and so precise that it whistles through the air before landing with a loud thud.",
+      "Invisible like a ghost, ${actorName} approaches their unsuspecting opponent. With a sudden, quiet swoosh, their attack materializes out of nowhere, hitting ${targetName} hard and leaving them gasping for air.",
+      "With a scream that freezes the blood, ${actorName} signals the start of a brutal assault. The powerful strike, amplified by the echo of the scream, hits ${targetName}, sending shockwaves through their armor and crushing their spirit.",
+      "${actorName} dances around ${targetName}, every strike and kick part of a devastating choreography. This dance is not only beautiful but also deadly, driving ${targetName} back, surrounded by the threat of relentless blows.",
+      "Like a tornado, ${actorName} whirls around ${targetName}, unleashing a series of lightning-fast attacks. Each strike whistles through the air, hitting with a speed that is hard to follow, leaving ${targetName} in a desperate defensive stance.",
+      "With calm calculation, ${actorName} observes every movement of their opponent. At the perfect moment, they unleash a precise, powerful strike that slices through the air, aiming directly at a critical point in ${targetName}'s armor.",
+      "${actorName} unleashes an unending torrent of attacks, every movement a demonstration of raw power. ${targetName} is overwhelmed by the force and frequency of the strikes, every defense seeming futile against the onslaught."
+    ],
+    "rwak": [
+      "${actorName} positions themselves with a nimble leap to a higher ground, gaining a clear angle for a shot at ${targetName}. The arrow/bolt flies through the air with precision and determination, hitting its target with a barely audible sound.",
+      "In a flash, ${actorName} reloads the crossbow/takes a new arrow, never taking their eyes off ${targetName}. The shot is so quick that ${targetName} barely has time to react before the bolt/arrow finds its mark.",
+      "With a roar of determination, ${actorName} releases an arrow/bolt at ${targetName}, the power of the shout seeming to carry the shot. The attack slices through the air with authority and hits ${targetName} with unexpected force.",
+      "With a calm and precise movement, ${actorName} takes aim at ${targetName}, blocking out the world around them. The moment of release is quiet and controlled, the arrow/bolt finding its target with a precision born of years of practice.",
+      "Like a shadow moving across the battlefield, ${actorName} is barely perceptible and silent. The fired arrow/bolt gives away their position but hits ${targetName} so unexpectedly that it feels like an attack from nowhere.",
+      "With a war cry that chills the blood, ${actorName} signals the impending attack. The following shot, carried by the intensity of the cry, makes ${targetName} pause before it is struck by the bolt/arrow.",
+      "In a dance of destruction, ${actorName} moves skillfully to find new angles for shots. Each shot follows the other in a rhythm that gives ${targetName} little time to breathe, thwarting every attempt at counterattack.",
+      "With a movement swift as the wind, ${actorName} changes position, always in motion to present a difficult target. The shots are as quick and unpredictable as gusts of a storm, putting ${targetName} in distress.",
+      "With the precision of an experienced warrior, ${actorName} calculates wind and distance before loosing an arrow/bolt. This shot is the result of careful planning and hits ${targetName} at a critical point.",
+      "Like a relentless storm, ${actorName} unleashes volley after volley at ${targetName}, the shots coming fast and hard. Each arrow carries ${actorName}'s energy and determination, overwhelming ${targetName} with an unstoppable barrage."
+    ]
+  },
+  "attackTypes": {
+    "mwak": "melee weapon attack",
+    "rwak": "ranged weapon attack",
+    "msak": "melee spell attack",
+    "rsak": "ranged spell attack",
+    "default": "attack"
+  },
+  "phrases": {
+    "with": "with",
+    "on": "on"
+  }
+}
