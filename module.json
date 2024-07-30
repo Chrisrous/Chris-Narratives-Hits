@@ -1,0 +1,44 @@
+{
+  "id": "chris-narrative-hits",
+  "title": "Chris's Narrative Hits",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/chris-narrative-hits.js"
+  ],
+  "styles": [
+    "css/styles.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "description": "Generiert eine Chat-Nachricht, die den Angriff auf einen NPC beschreibt, wenn Schaden gewürfelt wird.",
+  "authors": [
+    {
+      "name": "Chrisrous"
+    }
+  ],
+  "socket": true,
+  "url": "https://github.com/Chrisrous/Chris-Narratives-Hits"
+}
