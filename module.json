@@ -41,4 +41,6 @@
   ],
   "socket": true,
   "url": "https://github.com/Chrisrous/Chris-Narratives-Hits"
+  "manifest": "https://raw.githubusercontent.com/Chrisrous/Chris-Narratives-Hits/main/module.json",
+  "download": "https://github.com/Chrisrous/Chris-Narratives-Hits/releases/download/1.0/module.json"
 }
